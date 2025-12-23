@@ -163,6 +163,71 @@ function App() {
           </div>
         </div>
       </section>
+
+      <footer className="bg-black text-gray-300 pt-16">
+        <div className="bb mx-auto px-10 grid grid-cols-1 md:grid-cols-5 gap-10">
+          <div className="md:col-span-1">
+            <h2 className="text-white text-lg font-semibold mb-4">
+              CS — Ticket System
+            </h2>
+            <p className="text-sm leading-relaxed text-gray-400">
+              Lorem Ipsum is simply dummy text of the printing and typesetting
+              industry. Lorem Ipsum has been the industry's standard dummy text
+              ever since the 1500s, when an unknown printer took a galley of
+              type and scrambled it to make a type specimen book.
+            </p>
+          </div>
+
+          <div>
+            <h3 className="text-white font-semibold mb-4">Company</h3>
+            <ul className="space-y-2 text-sm text-gray-400">
+              <li className=" ">About Us</li>
+              <li className=" ">Our Mission</li>
+              <li className=" ">Contact Sales</li>
+            </ul>
+          </div>
+
+          <div>
+            <h3 className="text-white font-semibold mb-4">Services</h3>
+            <ul className="space-y-2 text-sm text-gray-400">
+              <li className=" ">Products & Services</li>
+              <li className=" ">Customer Stories</li>
+              <li className=" ">Download Apps</li>
+            </ul>
+          </div>
+
+          <div>
+            <h3 className="text-white font-semibold mb-4">Information</h3>
+            <ul className="space-y-2 text-sm text-gray-400">
+              <li className=" ">Privacy Policy</li>
+              <li className=" ">Terms & Conditions</li>
+              <li className=" ">Join Us</li>
+            </ul>
+          </div>
+
+          <div>
+            <h3 className="text-white font-semibold mb-4">Social Links</h3>
+            <ul className="space-y-3 text-sm text-gray-400">
+              <li className="flex items-center gap-3  ">
+                <i class="fa-brands fa-x-twitter"></i> @CS — Ticket System
+              </li>
+              <li className="flex items-center gap-3  ">
+                <i class="fa-brands fa-linkedin-in"></i> @CS — Ticket System
+              </li>
+              <li className="flex items-center gap-3  ">
+                <i class="fa-brands fa-facebook-f"></i> @CS — Ticket System
+              </li>
+              <li className="flex items-center gap-3  ">
+                <i class="fa-regular fa-message"></i> support@cst.com
+              </li>
+            </ul>
+          </div>
+        </div>
+
+        <div className="text-center text-sm text-white py-6 ">
+          © 2025 CS — Ticket System. All rights reserved.
+        </div>
+      </footer>
     </>
   );
 }
