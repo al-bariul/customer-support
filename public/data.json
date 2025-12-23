@@ -1,0 +1,110 @@
+[
+  {
+    "id": 1,
+    "title": "Login issue",
+    "description": "User is unable to login with correct credentials.",
+    "customer": "Rahim Ahmed",
+    "priority": "High",
+    "status": "Open",
+    "createdAt": "2025-12-15"
+  },
+  {
+    "id": 2,
+    "title": "Page not loading",
+    "description": "Dashboard page takes too long to load.",
+    "customer": "Karim Uddin",
+    "priority": "Medium",
+    "status": "In Progress",
+    "createdAt": "2025-12-15"
+  },
+  {
+    "id": 3,
+    "title": "Password reset failed",
+    "description": "Password reset email not received.",
+    "customer": "Nusrat Jahan",
+    "priority": "High",
+    "status": "Open",
+    "createdAt": "2025-12-16"
+  },
+  {
+    "id": 4,
+    "title": "UI alignment issue",
+    "description": "Buttons are not aligned properly on mobile view.",
+    "customer": "Sabbir Hossain",
+    "priority": "Low",
+    "status": "Resolved",
+    "createdAt": "2025-12-16"
+  },
+  {
+    "id": 5,
+    "title": "Payment failed",
+    "description": "Payment gets declined even with valid card.",
+    "customer": "Ayesha Khan",
+    "priority": "High",
+    "status": "In Progress",
+    "createdAt": "2025-12-17"
+  },
+  {
+    "id": 6,
+    "title": "Email notification not working",
+    "description": "Users are not receiving email notifications.",
+    "customer": "Tanvir Hasan",
+    "priority": "Medium",
+    "status": "Open",
+    "createdAt": "2025-12-17"
+  },
+  {
+    "id": 7,
+    "title": "Profile update error",
+    "description": "Error occurs when updating profile information.",
+    "customer": "Farhana Islam",
+    "priority": "Medium",
+    "status": "Resolved",
+    "createdAt": "2025-12-18"
+  },
+  {
+    "id": 8,
+    "title": "Search not returning results",
+    "description": "Search feature shows empty results for valid keywords.",
+    "customer": "Mahmudul Hasan",
+    "priority": "Low",
+    "status": "Open",
+    "createdAt": "2025-12-18"
+  },
+  {
+    "id": 9,
+    "title": "File upload failed",
+    "description": "Users cannot upload files larger than 5MB.",
+    "customer": "Shakil Ahmed",
+    "priority": "High",
+    "status": "In Progress",
+    "createdAt": "2025-12-19"
+  },
+  {
+    "id": 10,
+    "title": "Logout button not working",
+    "description": "Clicking logout does not end the session.",
+    "customer": "Mithila Roy",
+    "priority": "Medium",
+    "status": "Resolved",
+    "createdAt": "2025-12-19"
+  },
+  {
+    "id": 11,
+    "title": "Broken link",
+    "description": "Help page link is redirecting to 404 page.",
+    "customer": "Arif Hossain",
+    "priority": "Low",
+    "status": "Open",
+    "createdAt": "2025-12-20"
+  },
+  {
+    "id": 12,
+    "title": "Slow API response",
+    "description": "API response time is above 5 seconds.",
+    "customer": "Jannatul Ferdous",
+    "priority": "High",
+    "status": "In Progress",
+    "createdAt": "2025-12-20"
+  }
+]
